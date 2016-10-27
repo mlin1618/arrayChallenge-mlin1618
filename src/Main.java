@@ -1,7 +1,5 @@
-/**
- * Created by Nilxam on 10/27/16.
- */
 import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
